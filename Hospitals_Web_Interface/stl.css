@@ -1,0 +1,14 @@
+body
+{
+  background-color: #bff5ef;
+}
+.button1
+{
+  position:absolute;
+  top:0;
+  left:0;
+  width: 10%;
+  height: auto;
+  font-size: 20px;
+  background-color: #f44336;
+}
